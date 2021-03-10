@@ -1,7 +1,7 @@
 public class Test2{
 	public static void main (String[] args){
 		int i,j,sum;
-		System.out.print("1000ÒÔÄÚµÄÍêÊı·Ö±ğÊÇ£º");
+		System.out.print("1000ä»¥å†…çš„å®Œæ•°åˆ†åˆ«æ˜¯ï¼š");
 		for(i=1;i<=1000;i++){
 			sum=0;
 			for(j=1;j<i;j++){
