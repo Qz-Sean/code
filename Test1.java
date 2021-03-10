@@ -11,7 +11,7 @@ public class Test1{
 				sum+=i;
 			}
 		}
-		System.out.println("100以内质数的和为："+sum);
+		System.out.println("100以内质数的和是："+sum);
 			
 	}
 }
