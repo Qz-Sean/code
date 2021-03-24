@@ -4,7 +4,7 @@ public class Cuboid {
     double height;
 
     void get_bottom(Rectangle c) {
-        // 将rectangle类的引用赋给bottom
+        // 将rectangle类的引用赋给bottom.
         bottom = c;
     }
 

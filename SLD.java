@@ -1,4 +1,4 @@
-public class DD{
+public class SLD{
         public static void main(String args[]){
                 System.out.print(" \t*\t\t   \t\t*\n\n\n");
                 System.out.print("*\t\t*\t \t*\t\t*\n\n\n");
