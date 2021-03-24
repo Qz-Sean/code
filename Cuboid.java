@@ -1,6 +1,6 @@
 public class Cuboid {
     Rectangle bottom;
-    // 将rectangle对象设为长方体的底面bottom
+    // 将rectangle对象设为长方体的底面bottom.
     double height;
 
     void get_bottom(Rectangle c) {
